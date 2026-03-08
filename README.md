@@ -8,7 +8,7 @@
 
 1. **복제 (Clone)**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yeounhyeok/quartz-dockerfile
 cd quartz-docker
 mkdir content
 
